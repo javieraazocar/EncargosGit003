@@ -1,0 +1,27 @@
+body{
+    background-color:#d4f882 ;
+}
+.titulo1{
+    color: #ffb01c;
+    text-shadow: 1px 1px black;
+    text-align: center;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+.titulo2{
+    color: #ffb01c;
+    text-shadow: 1px 1px #785222;
+    text-align: center;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    text-decoration: underline;
+}
+.parrafos{
+    color: #785222;
+    text-align:justify;
+    font-family: Verdana, Geneva, Tahoma, sans-serif; 
+    
+}
+.imga{
+    display:block;
+    margin:auto;
+    }
+    
